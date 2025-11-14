@@ -67,7 +67,7 @@ Opportunity Score = *Mention Count × Negative Sentiment Fraction*
 
 ---
 
-## ✅ Quality & Robustness
+## Quality & Robustness
 
 This project was built with production readiness in mind:
 
