@@ -4,6 +4,7 @@ This project implements an advanced, end-to-end Machine Learning pipeline and a 
 
 It automatically identifies customer pain points, calculates the severity of those pains, and ranks them by actionable opportunity score.
 
+Link to Live Demo Web App: https://nlp-market-opportunity-analyzer.streamlit.app/
 ---
 
 ## Core Value Proposition
