@@ -21,3 +21,6 @@ streamlit
 
 # Testing
 pytest
+
+# openai chat
+openai>=1.0.0
