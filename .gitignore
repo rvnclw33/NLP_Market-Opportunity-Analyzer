@@ -1,0 +1,36 @@
+# Python virtual environment
+.venv/
+venv/
+*.venv/
+
+# Secret files
+.env
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+
+# Ignore large .csv files
+data/
+*.csv
+
+# large output files
+output/
+
+# large pre-trained model
+models/
+
+# avoid committing large binary files
+*.zip
+*.safetensors
+*.bin
+*.pt
+*.h5
+*.csvapp/.streamlit/secrets.toml
+app/.streamlit/secrets.toml

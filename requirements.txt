@@ -1,0 +1,23 @@
+# Core data / ML
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# NLP & topic modeling
+spacy
+sentence-transformers
+umap-learn
+hdbscan
+wordcloud
+vaderSentiment
+transformers
+torch
+
+# Notebook / app
+jupyter
+streamlit
+
+# Testing
+pytest
